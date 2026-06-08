@@ -1,0 +1,8 @@
+name: til
+kind: doctrine
+layer: soul
+owner_sister: none
+domain: none
+state: active
+purpose: The eldest word for life — telling the living from the dead.
+dependsOn: [ush, silim, nin]
